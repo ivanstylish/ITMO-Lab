@@ -1,4 +1,4 @@
 # ITMO-Lab
 ALL LAB OF ITMO UNIVERSITY
 
-[Lab1](Lab1/readme.md)
+[Info-Lab](Info-Lab/readme.md)

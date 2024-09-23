@@ -1,1 +1,0 @@
-### [MainPage](../README.md)/Lab1
